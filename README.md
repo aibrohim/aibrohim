@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# I am 👨‍💻
+Hi! I am a frontend developer and a mentor at Najot ta'lim. 
 <!--
 **aibrohim/aibrohim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
