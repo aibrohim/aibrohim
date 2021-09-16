@@ -1,5 +1,7 @@
 # I am 👨‍💻
-Hi! I am a frontend developer and a mentor at Najot ta'lim. 
+Hi! I am a frontend developer at Pixer Digital Company
+
+😄 Pronouns: he/him
 
 ## 📫 How to reach me:
 * Telegram: https://t.me/aibrohim
