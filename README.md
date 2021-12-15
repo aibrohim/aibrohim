@@ -1,5 +1,5 @@
 # I am 👨‍💻
-Hi! I am a frontend developer at Pixer Digital Company
+Hi! I am a front-end engineer
 
 😄 Pronouns: he/him
 
