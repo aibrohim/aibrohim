@@ -1,12 +1,10 @@
-# I am 👨‍💻
-Hi! I am a front-end engineer
-
-😄 Pronouns: he/him
+# Software Engineer
+Engineer with 2+ years of hands-on experience. Built wep apps focused on automation of cleaning, e-commerce, geo-analyses, travel and so on with more than thousands of staff
 
 ## 📫 How to reach me:
 * Telegram: https://t.me/aibrohim
-* Facebook: https://www.facebook.com/ibrohim.alimuxammedov.3/
-* Instagram: https://instagram.com/ibrohim_av
+* LinkedIn: https://www.linkedin.com/in/aibrohim/
+* Mail: ibrohim7840@gmail.com
 <!--
 **aibrohim/aibrohim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
