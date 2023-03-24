@@ -1,5 +1,5 @@
 ## Ibrohimjon Alimuhammedov
-Engineer with 2+ years of hands-on experience. Built wep apps focused on automation of cleaning, e-commerce, geo-analyses, travel, etc.
+Engineer with 3 years of hands-on experience. Built wep apps focused on automation of cleaning, e-commerce, geo-analyses, travel, etc.
 
 ## 📫 How to reach me:
 * Telegram: https://t.me/aibrohim
